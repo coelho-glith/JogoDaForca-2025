@@ -122,7 +122,7 @@
                 if (jogadorGanhou)
                 {
                     Console.WriteLine("-----------------------------------------------------------");
-                    Console.WriteLine($"Você acertou a palavra {palavraEscolhida}, Parabéns!");
+                    Console.WriteLine($"Você acertou a palavra {palavraEscolhida}, Parabéns! WoW");
                     Console.WriteLine("-----------------------------------------------------------");
                 }
 
